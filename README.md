@@ -12,8 +12,6 @@
 
 ## Hi there 👋
 
-My name is Daniel. I am Frontend Developer from Nigeria.
-
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS. 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onadan&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
