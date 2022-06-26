@@ -6,8 +6,8 @@
 <a href="https://github.com/onadan">
     <img alt="onadan" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://twitter.com/1DanielOnaolapo">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+<a href="https://linkedin.com/in/daniel-onaolapo">
+    <img alt="onadan" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ### Hi there 👋
