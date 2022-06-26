@@ -10,8 +10,10 @@
     <img alt="onadan" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### Hi there 👋
+## Hi there 👋
 
 My name is Daniel. I am Frontend Developer from Nigeria.
 
 - 🌱 I’m currently learning ReactJS
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onadan&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
