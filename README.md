@@ -1,3 +1,5 @@
+![Daniel Onaolapo](1500x500.jpeg)
+
 ### Hi there 👋
 
 <!--
