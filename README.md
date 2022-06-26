@@ -1,5 +1,9 @@
 ![Daniel Onaolapo](1500x500.jpeg)
 
+<a href="https://twitter.com/1DanielOnaolapo">
+![Twitter({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white})
+</a>
+
 ### Hi there 👋
 
 <!--
