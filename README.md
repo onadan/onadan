@@ -1,6 +1,5 @@
 ![Daniel Onaolapo](1500x500.jpeg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/onadan/onadan?color=0F182A&style=for-the-badge)](https://github.com/onadan)
 <a href="https://twitter.com/1DanielOnaolapo">
     <img alt="Daniel Onaolapo Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
