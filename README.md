@@ -12,5 +12,6 @@
 
 
 🌱 I’m currently learning ReactJS.
+Will learn python in the future
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onadan&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
