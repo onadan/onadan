@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
+Hi! My name is Daniel
 ==============================================================================================================================
 
-Web developer
--------------
+### A Web developer
 
 I wrote my first line of code 2017, but started learning to code late 2021. It been fun all the way🚀
 
