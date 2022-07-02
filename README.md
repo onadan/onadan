@@ -31,7 +31,7 @@ I wrote my first line of code 2017, but started learning to code late 2021. It b
 ### Socials
                   
                   
-                <p align="left">
+               
                           
                       <a href="https://www.github.com/onadan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
