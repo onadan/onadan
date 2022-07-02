@@ -79,7 +79,6 @@ I wrote my first line of code 2017, but started learning to code late 2021. It b
 </a>
 
 ### Badges
-git
 <a href="http://www.github.com/onadan">
 <img src="https://github-readme-stats.vercel.app/api?username=onadan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onadan's GitHub stats" />
 </a>
