@@ -7,7 +7,7 @@ I wrote my first line of code 2017, but started learning to code late 2021. It b
 - 🌍  I'm based in Nigeria
 - ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 - 🧠  I'm learning ReactJS
-- 🤝  I'm open to collaborating on any web project
+- 🤝  I'm open to collaborating on web projects
 
 <a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/1DanielOnaolapo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
