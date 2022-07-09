@@ -5,7 +5,7 @@
 I wrote my first line of code 2017, but started learning to code late 2021. It been fun all the way🚀
 
 - 🌍  I'm based in Nigeria
-- ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
+- ✉️  You can contact me via [onadan45@gmail.com](mailto:onadan45@gmail.com)
 - 🧠  I'm learning ReactJS
 - 🤝  I'm open to collaborating on web projects
 
