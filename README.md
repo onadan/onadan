@@ -1,7 +1,9 @@
 # Hi! 👋
 
-My name is Daniel. I am a Frontend developer.  
-Wrote my first line of code 2017, but started learning to code late 2021. It been fun all the way🚀
+My name is Daniel. I am a Frontend developer. 
+
+Wrote my first line of code 2017, but started learning to code late 2021.
+It's been fun all the way🚀
 
 - 🌍  I'm based in Nigeria
 - ✉️  You can contact me via [onadan45@gmail.com](mailto:onadan45@gmail.com)
