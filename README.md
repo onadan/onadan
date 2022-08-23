@@ -59,13 +59,3 @@ My name is Daniel. I am a Frontend developer.
 <a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
-
-### Badges
-
-<a href="http://www.github.com/onadan">
-<img src="https://github-readme-stats.vercel.app/api?username=onadan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onadan's GitHub stats" />
-</a>
-<br />
-<a href="https://github.com/onadan">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
