@@ -59,3 +59,5 @@ My name is Daniel. I am a Frontend developer.
 <a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onadan&hide_border=true)](https://git.io/streak-stats)
