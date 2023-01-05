@@ -5,8 +5,8 @@ Frontend Developer
 ------------------
 
 * ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
-* 🧠  I'm ReactJS Developer
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm ReactJS Developer.
+* 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/1DanielOnaolapo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
