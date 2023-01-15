@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Frontend Developer
-------------------
+My name is Daniel
+
+I am a frontend Developer
 
 * ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 * 🧠  I'm ReactJS Developer.
