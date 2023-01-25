@@ -1,9 +1,12 @@
+![banner](https://user-images.githubusercontent.com/62123454/214482907-14929c0c-fa5f-46d8-a37e-a77e11904a9c.png)
+
+
 # Hello 👋
 
 - I love building projects that solves real life problem.
 - 🧠  I'm ReactJS Developer.
-- ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 - 🤝  I'm open to collaborating on interesting projects.
+- ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 
 <a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/1DanielOnaolapo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
