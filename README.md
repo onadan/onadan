@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/1DanielOnaolapo?logo=twitter&style=fo
 <a href="https://www.linkedin.com/in/daniel-onaolapo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="padding: .5rem 1rem;"/></a>
 </td>
 <td>
-<a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="padding: .5rem 1rem;"/></a></p>
+<a href="https://www.twitter.com/1DanielOnaolapo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="padding: 1rem 1rem .5rem;"/></a></p>
 </td>
 </tr>
 </table>
