@@ -4,6 +4,6 @@
 # Hello 👋
 
 - I love building projects that solves real life problem.
-- 🧠  I'm currently learning React and Angular.
+- 🧠  I currently work with React and it frameworks
 - 🤝  I'm open to collaborating on interesting projects.
 - ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
