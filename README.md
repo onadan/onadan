@@ -7,3 +7,6 @@
 - 🧠  I currently work with React and it frameworks
 - 🤝  I'm open to collaborating on interesting projects.
 - ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadan&theme=dracula" />
