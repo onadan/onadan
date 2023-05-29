@@ -11,4 +11,4 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onadan&theme=dracula" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onadan&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandan&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadan&theme=dracula" />
