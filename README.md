@@ -9,4 +9,4 @@
 - ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onadan&theme=dracula" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadan&layout=donut" />
