@@ -1,6 +1,6 @@
 ## About Me
 
-Hey there, I'm Daniel, often reffered to as "doctor". I'm a frontend developer obsessed with crafting user-centric, high-performance web apps. My coding expertise revolves around JavaScript frameworks(React, Next.js, Gatsby and others).
+Hey there, I'm Daniel, often refered to as "doctor". I'm a frontend developer obsessed with crafting user-centric, high-performance web apps. My coding expertise revolves around JavaScript frameworks(React, Next.js, Gatsby and others).
 
 Outside the digital landscape, I'm captivated by the aesthetics of 3D design and the intricacies of visual art. I'm drawn to the visual arts, video production, and the marvels of aviation. When I'm not coding, I'm constantly seeking new insights and exploring the fascinating depths of history and psychology. Music is another love of mine, and you might catch me with headphones on, lost in the world of sound. Oh, and did I mention my love for cybersecurity? Catch me playing Capture The Flag (CTF) challenges for that adrenaline rush. 
 
