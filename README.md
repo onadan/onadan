@@ -14,8 +14,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -32,10 +30,6 @@ VS Code                  28 mins             ███████████�
 Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/onadan/onadan/main/assets/bar_graph.png)
-
-
- Last Updated on 29/10/2023 12:02:27 UTC
+ Last Updated on 29/10/2023 12:11:43 UTC
 <!--END_SECTION:waka-->
