@@ -1,3 +1,5 @@
+## About Me
+
 Hey there, I'm Daniel, often reffered to as "doctor". I'm a frontend developer obsessed with crafting user-centric, high-performance web apps. My coding expertise revolves around JavaScript frameworks(React, Next.js, Gatsby and others).
 
 Outside the digital landscape, I'm captivated by the aesthetics of 3D design and the intricacies of visual art. I'm drawn to the visual arts, video production, and the marvels of aviation. When I'm not coding, I'm constantly seeking new insights and exploring the fascinating depths of history and psychology. Music is another love of mine, and you might catch me with headphones on, lost in the world of sound. Oh, and did I mention my love for cybersecurity? Catch me playing Capture The Flag (CTF) challenges for that adrenaline rush. 
@@ -16,8 +18,8 @@ Let's connect and geek out over innovation, exploration, and the ever-evolving t
 </a>
 </div>
 
+## Languages, Tools, and Skills 🛠
 <div align="center">
-### Languages, Tools, and Skills 🛠
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
