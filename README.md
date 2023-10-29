@@ -1,15 +1,8 @@
-![banner](https://user-images.githubusercontent.com/62123454/216628064-7412e2dc-e26d-4825-8d7d-d97aa6700a17.png)
-
-
-# Hello 👋
-
+## About me
 - I love building projects that solves real life problem.
-- 🧠  I currently work with React and it frameworks
-- 🤝  I'm open to collaborating on interesting projects.
-- ✉️  You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onadan&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadan&layout=donut" />
+- I currently work with Javscript and it frameworks
+- I'm open to collaborating on interesting projects.
+- You can contact me at [onadan45@gmail.com](mailto:onadan45@gmail.com)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2048%20mins-blue)
