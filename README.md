@@ -16,8 +16,8 @@ Let's connect and geek out over innovation, exploration, and the ever-evolving t
 </a>
 </div>
 
-### Languages, Tools, and Skills 🛠
 <div align="center">
+### Languages, Tools, and Skills 🛠
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
@@ -45,6 +45,7 @@ Let's connect and geek out over innovation, exploration, and the ever-evolving t
 
 
 <div align="center">
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2048%20mins-blue)
 
