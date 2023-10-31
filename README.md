@@ -49,24 +49,27 @@ Let's connect and geek out over innovation, exploration, and the ever-evolving t
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-HTML                     28 mins             █████████████████████████   99.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               2 hrs 9 mins        ████████████████████░░░░░   80.78 % 
+HTML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2023 01:53:03 UTC
+ Last Updated on 31/10/2023 01:52:12 UTC
 <!--END_SECTION:waka-->
