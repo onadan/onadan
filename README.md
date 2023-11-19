@@ -1,4 +1,4 @@
-### 🚀🚀🚀
+### Persona
 
 My name is Daniel, often refered to as "doctor". I'm a Frontend Engineer. 
 
@@ -6,7 +6,7 @@ I'm drawn to the aesthetics of 3D design and the intricacies of visual art.
 
 Catch me playing Capture The Flag (CTF) challenges for that adrenaline rush. 
 
-Let's connect and geek out over innovation, exploration, and the ever-evolving tech and security universe.
+Let's connect and geek out over innovation, exploration, and the ever-evolving tech and security universe.🚀🚀🚀
 
 
 ### Technology Stack
