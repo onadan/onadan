@@ -1,4 +1,4 @@
-### Persona
+## Persona
 
 My name is Daniel, often refered to as "doctor". I'm a Frontend Engineer. 
 
