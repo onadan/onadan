@@ -13,6 +13,7 @@ Let's connect and geek out over innovation, exploration, and the ever-evolving t
 - Language: Javascript, Python, C
 - Frameworks: React, Nextjs, Gatsby, Vue, Tyescript, Astro
 - IDE: VS Code, Webstorm IDE
+- Version Control: Git, Github, Gitlab, Bitbucket 
 
 ### Contact
 Gmail: <a href="mailto:onadan45@gmail.com"> onadan45@gmail.com </a>
