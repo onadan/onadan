@@ -1,13 +1,11 @@
 ## Persona
 My name is Daniel. I'm a Frontend Engineer.
-
-### More about me
 I'm drawn to the aesthetics of 3D design and the intricacies of visual art.
 Catch me playing Capture The Flag (CTF) challenges for that adrenaline rush. 
 
 ### Technology Stack
-- Language: Javascript, Python, C
-- Frameworks: React, Nextjs, Gatsby, Vue, Tyescript, Astro
+- Language: Javascript, Tyescript, Python
+- Frameworks: React, Nextjs, Gatsby, Vue, Astro
 - IDE: VS Code, Webstorm IDE
 - Version Control: Git, Github, Gitlab, Bitbucket 
 
