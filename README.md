@@ -9,5 +9,3 @@ My name is Daniel. I'm a Frontend Engineer.
 
 ### Contact
 Gmail: <a href="mailto:onadan45@gmail.com"> onadan45@gmail.com </a>
-
-Let's connect.🚀🚀🚀
