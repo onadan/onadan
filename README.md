@@ -1,9 +1,9 @@
 ## Persona
-My name is Daniel. I'm a Frontend Engineer.
+I'm a Frontend Engineer.
 
 ### Technology Stack
 - Language: Javascript, Tyescript, Python, C
-- Frameworks: React, Nextjs, Gatsby, Vue, Astro, Threejs, D3.js
+- Frameworks: React, Nextjs, Gatsby, Vue, Astro, Threejs, D3.js, TailwindCss
 - IDE: VS Code, Webstorm IDE
 - Version Control: Git, Github, Gitlab, Bitbucket 
 
