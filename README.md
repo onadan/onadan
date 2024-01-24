@@ -1,8 +1,8 @@
 ## Persona
-I'm a Frontend Engineer.
+Software Engineer focused on frontend development.
 
 ### Technology Stack
-- Language: Javascript, Tyescript, Python, C
+- Languages: Javascript, Tyescript, Python, C, Go
 - Frameworks: React, Nextjs, Gatsby, Vue, Astro, Threejs, D3.js, TailwindCss
 - IDE: VS Code, Webstorm IDE
 - Version Control: Git, Github, Gitlab, Bitbucket 
